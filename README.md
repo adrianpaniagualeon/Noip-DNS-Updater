@@ -25,8 +25,8 @@ Tienes que modificar el archivo ddns.py con tus datos para que el script funcion
 
 |Estado|Descripción|
 |-|-|
-|good {IP_ADDRESS| La IP se ha actualizado correctamente |
-|nochg IP_ADDRESS| La IP es la misma y no se ha actualizado|
+|good {IP_ADDRESS}| La IP se ha actualizado correctamente |
+|nochg {IP_ADDRESS}| La IP es la misma y no se ha actualizado|
 |nohost|El dominio introducido no existe o no pertenece a tu cuenta|	
 |badauth|Email o contraseña incorrecta|
 |badagent|NowIP ha bloqueado esta aplicación. Busca en el código `Adrian Paniagua DNS UPDATER maintainer-github@adrianpaniagua.es` y cambialo por lo que tu quieras|
